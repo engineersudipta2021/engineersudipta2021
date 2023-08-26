@@ -1,3 +1,4 @@
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 - 👋 Hi, I’m @engineersudipta2021
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning on next.js
